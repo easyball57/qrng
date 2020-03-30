@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\QRNG\qrng_poc\bin\Debug\SGlux.exe
+C:\Users\Admin\Documents\QRNG\qrng_poc\bin\Debug\SGlux.pdb
+C:\Users\Admin\Documents\QRNG\qrng_poc\obj\Debug\SGLux.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\QRNG\qrng_poc\obj\Debug\SGLux.SGLuxForm.resources
+C:\Users\Admin\Documents\QRNG\qrng_poc\obj\Debug\SGlux.Properties.Resources.resources
+C:\Users\Admin\Documents\QRNG\qrng_poc\obj\Debug\SGLux.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\QRNG\qrng_poc\obj\Debug\SGlux.exe
+C:\Users\Admin\Documents\QRNG\qrng_poc\obj\Debug\SGlux.pdb

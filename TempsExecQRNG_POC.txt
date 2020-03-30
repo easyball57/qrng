@@ -1,0 +1,8 @@
+RandDouble.10x100000 : 9h24 - 10h11
+RandFloat.10x100000 : 14h54 - 15h32
+RandFloat.20x1000000 : 23h59 - 12h34
+RandDouble.10000000 x 20 : 12h42 - 1h15
+
+python:
+RandFloat.100000 x 200 puis regroupe 20 X 1.000.000 : 1h26 puis 32sec
+RandFloat.1000000 x 20 puis regroupe 20 x 1.000.000 : 1h25 puis 30sec
